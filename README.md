@@ -2,8 +2,8 @@
 
 Pipeline Lakehouse no Databricks para organizar e analisar ocorrências de segurança entre 2020 e 2026, com rastreabilidade, qualidade e privacidade.
 
-Autor: Cirisley Ferreira de Moraes
-Matrícula: 4052026000477
+Autor: Cirisley Ferreira de Moraes/
+Matrícula: 4052026000477/
 Data: Setembro/2026
 
 ## 1. Contexto de Negócios e Perguntas
